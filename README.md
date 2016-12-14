@@ -1,0 +1,2 @@
+# QuadraticEquationsC-
+QuadraticEquations solver basic
